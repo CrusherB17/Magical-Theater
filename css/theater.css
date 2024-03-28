@@ -1,0 +1,36 @@
+body {
+  background-color: lightblue;
+  margin: 0;
+  color: rgb(143, 8, 8);
+  margin: 3%;
+}
+
+p {
+  margin: 3% 15%;
+  padding: 1%;
+  border: 1px solid;
+}
+
+h2 {
+  margin-left: 13%;
+}
+
+header {
+  background-color: tan;
+  text-align: center;
+  justify-content: center;
+}
+
+button {
+  background-color: rgb(219, 162, 87);
+  margin: 1rem;
+  border-radius: 0%;
+  height: 2rem;
+  width: 8rem;
+  align-self: end;
+}
+
+button:hover {
+  background-color: rgb(172, 69, 69);
+  cursor: pointer;
+}
